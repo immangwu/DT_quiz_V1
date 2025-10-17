@@ -1,0 +1,16 @@
+[
+  {
+    "studentName": "S.P.Harish kumar",
+    "registerNumber": "2403713811421006",
+    "reason": "Window focus lost for too long",
+    "timestamp": "2025-07-30T04:11:19.457Z",
+    "sessionId": "2403713811421006_20250730_093933"
+  },
+  {
+    "studentName": "Rathieesh M",
+    "registerNumber": "2403713811421016",
+    "reason": "Multiple attempts to leave quiz detected",
+    "timestamp": "2025-07-30T04:23:28.379Z",
+    "sessionId": "2403713811421016_20250730_095037"
+  }
+]

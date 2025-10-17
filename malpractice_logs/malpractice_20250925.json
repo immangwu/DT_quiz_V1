@@ -1,0 +1,23 @@
+[
+  {
+    "studentName": "fdgfd",
+    "registerNumber": "sdfg",
+    "reason": "Window focus lost for too long",
+    "timestamp": "2025-09-25T09:24:05.809Z",
+    "sessionId": "sdfg_20250925_145345"
+  },
+  {
+    "studentName": "Ranjith",
+    "registerNumber": "71382305011",
+    "reason": "Multiple attempts to leave quiz detected",
+    "timestamp": "2025-09-25T09:30:04.256Z",
+    "sessionId": "71382305011_20250925_145843"
+  },
+  {
+    "studentName": "Naveen",
+    "registerNumber": "713823050304",
+    "reason": "Window focus lost for too long",
+    "timestamp": "2025-09-25T09:33:31.175Z",
+    "sessionId": "713823050304_20250925_150309"
+  }
+]

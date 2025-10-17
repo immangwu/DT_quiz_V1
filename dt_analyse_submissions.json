@@ -1,0 +1,505 @@
+[
+  {
+    "student_name": "dfg",
+    "register_number": "dfsgf",
+    "score": 3,
+    "answers": [
+      2,
+      2,
+      1,
+      2,
+      3,
+      3,
+      2,
+      1,
+      3,
+      2,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      3,
+      3,
+      2
+    ],
+    "questions": [
+      {
+        "id": 33,
+        "question": "What is the POV statement formula?",
+        "options": [
+          "User + Problem + Solution",
+          "[User] needs [Need] because [Insight]",
+          "Problem + Answer + Test",
+          "Question + Answer + Verify"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 67,
+        "question": "Why should you look for contradictions in data?",
+        "options": [
+          "To create problems",
+          "Most powerful insights come from contradictions",
+          "To confuse the team",
+          "To delay progress"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 10,
+        "question": "Pattern recognition in synthesis helps to:",
+        "options": [
+          "Make data look organized",
+          "Identify recurring themes across observations",
+          "Create random groupings",
+          "Avoid user feedback"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 60,
+        "question": "The best Porthos solution was:",
+        "options": [
+          "Intoxication",
+          "Use old clothes",
+          "Train a trusted companion to measure",
+          "Use a long pole"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 39,
+        "question": "A common pitfall in problem statements is:",
+        "options": [
+          "Making them user-focused",
+          "Including solutions (solution bias)",
+          "Making them clear",
+          "Testing them"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 58,
+        "question": "What lesson does the Porthos case teach?",
+        "options": [
+          "Violence solves problems",
+          "Creative thinking resolves paradoxes",
+          "Avoid difficult clients",
+          "Traditional methods always work"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 29,
+        "question": "What are the three traits of a good problem statement?",
+        "options": [
+          "Long, detailed, technical",
+          "Human-centered, broad enough, narrow enough",
+          "Business-focused, technical, specific",
+          "Short, vague, flexible"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 44,
+        "question": "The goal when facing conflicts is to:",
+        "options": [
+          "Choose one requirement",
+          "Compromise on both",
+          "Satisfy both requirements simultaneously",
+          "Avoid the problem"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 4,
+        "question": "What is a 'Theme' in data synthesis?",
+        "options": [
+          "A single user quote",
+          "A cluster of similar observations",
+          "A final insight",
+          "A problem statement"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 49,
+        "question": "The Problem Definition Canvas helps to:",
+        "options": [
+          "Build solutions",
+          "Comprehensively define problems",
+          "Test prototypes",
+          "Manage teams"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 7,
+        "question": "What is inductive thinking in synthesis?",
+        "options": [
+          "General to specific reasoning",
+          "Specific to general reasoning",
+          "Testing hypotheses",
+          "Creative guessing"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 48,
+        "question": "Both/And thinking in conflict resolution:",
+        "options": [
+          "Is impossible",
+          "Seeks to satisfy both requirements",
+          "Chooses one side",
+          "Avoids decisions"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 69,
+        "question": "Analysis paralysis means:",
+        "options": [
+          "Analyzing too fast",
+          "Over-analyzing without reaching conclusions",
+          "Not analyzing enough",
+          "Analyzing perfectly"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 19,
+        "question": "In the student tardiness case study, what was the root cause?",
+        "options": [
+          "Student is lazy",
+          "Student wakes up late",
+          "Student has too many courses",
+          "Student doesn't care"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 56,
+        "question": "In the auto workshop case, what was the key reframing?",
+        "options": [
+          "Workshop is too far \u2192 Distance customers travel is too far",
+          "Customers are lazy \u2192 Workshop is bad",
+          "Price is too high \u2192 Service is poor",
+          "No reframing needed"
+        ],
+        "correct": 0
+      },
+      {
+        "id": 32,
+        "question": "Why should problem statements be narrow enough?",
+        "options": [
+          "To limit creativity",
+          "To be manageable and solvable",
+          "To make them easy",
+          "To avoid work"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 2,
+        "question": "What are the three stages of synthesis in the Analyse phase?",
+        "options": [
+          "Research, Design, Test",
+          "Learnings, Themes, Insights",
+          "Empathize, Define, Ideate",
+          "Observe, Interpret, Ideate"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 6,
+        "question": "What is deductive thinking in synthesis?",
+        "options": [
+          "Specific to general reasoning",
+          "General to specific reasoning",
+          "Creative leaps to explanations",
+          "Random pattern recognition"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 3,
+        "question": "In the synthesis process, what is a 'Learning'?",
+        "options": [
+          "A final conclusion",
+          "An initial observation or quote",
+          "A problem statement",
+          "A solution idea"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 38,
+        "question": "HMW questions should:",
+        "options": [
+          "Include the solution",
+          "Suggest one approach",
+          "Inspire multiple solutions",
+          "Be very technical"
+        ],
+        "correct": 2
+      }
+    ],
+    "timestamp": "2025-10-17 09:47:39"
+  },
+  {
+    "student_name": "1234",
+    "register_number": "7138",
+    "year": "1st Year",
+    "department": "CSE",
+    "venue": "HIVE",
+    "score": 5,
+    "answers": [
+      2,
+      2,
+      2,
+      1,
+      2,
+      1,
+      3,
+      2,
+      2,
+      2,
+      2,
+      3,
+      2,
+      2,
+      2,
+      3,
+      3,
+      2,
+      2,
+      2
+    ],
+    "questions": [
+      {
+        "id": 26,
+        "question": "How should affinity notes be grouped?",
+        "options": [
+          "Randomly",
+          "By color",
+          "Based on natural relationships",
+          "Alphabetically"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 69,
+        "question": "Analysis paralysis means:",
+        "options": [
+          "Analyzing too fast",
+          "Over-analyzing without reaching conclusions",
+          "Not analyzing enough",
+          "Analyzing perfectly"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 37,
+        "question": "Why is 'MIGHT' important in HMW questions?",
+        "options": [
+          "It shows uncertainty",
+          "It allows exploration of possibilities",
+          "It shows weakness",
+          "It delays decisions"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 34,
+        "question": "In a POV statement, the NEED should be expressed as:",
+        "options": [
+          "A noun (solution)",
+          "An adjective",
+          "A verb (action)",
+          "A question"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 27,
+        "question": "Affinity mapping should be done:",
+        "options": [
+          "Alone for best results",
+          "Collaboratively with the team",
+          "Only by the designer",
+          "Only by stakeholders"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 9,
+        "question": "What type of data is most important in the Analyse phase?",
+        "options": [
+          "Only quantitative data",
+          "Only qualitative data",
+          "Both qualitative and quantitative",
+          "Neither, only assumptions"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 53,
+        "question": "Quantifiable impact should be expressed in:",
+        "options": [
+          "Vague terms",
+          "Legible currency (time, money, health, etc.)",
+          "Technical jargon",
+          "Future projections"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 3,
+        "question": "In the synthesis process, what is a 'Learning'?",
+        "options": [
+          "A final conclusion",
+          "An initial observation or quote",
+          "A problem statement",
+          "A solution idea"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 56,
+        "question": "In the auto workshop case, what was the key reframing?",
+        "options": [
+          "Workshop is too far \u2192 Distance customers travel is too far",
+          "Customers are lazy \u2192 Workshop is bad",
+          "Price is too high \u2192 Service is poor",
+          "No reframing needed"
+        ],
+        "correct": 0
+      },
+      {
+        "id": 16,
+        "question": "When applying 5 Whys, you should stop asking when:",
+        "options": [
+          "You reach exactly 5",
+          "You get tired",
+          "No further logical 'Why' can be asked",
+          "The user says stop"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 2,
+        "question": "What are the three stages of synthesis in the Analyse phase?",
+        "options": [
+          "Research, Design, Test",
+          "Learnings, Themes, Insights",
+          "Empathize, Define, Ideate",
+          "Observe, Interpret, Ideate"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 33,
+        "question": "What is the POV statement formula?",
+        "options": [
+          "User + Problem + Solution",
+          "[User] needs [Need] because [Insight]",
+          "Problem + Answer + Test",
+          "Question + Answer + Verify"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 14,
+        "question": "The 5 Whys technique was originally used in:",
+        "options": [
+          "Software development",
+          "Healthcare",
+          "Toyota Production System",
+          "Education"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 54,
+        "question": "Alternative solutions in the canvas show:",
+        "options": [
+          "What we should build",
+          "What users currently use (competitive landscape)",
+          "Impossible options",
+          "Future technology"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 19,
+        "question": "In the student tardiness case study, what was the root cause?",
+        "options": [
+          "Student is lazy",
+          "Student wakes up late",
+          "Student has too many courses",
+          "Student doesn't care"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 58,
+        "question": "What lesson does the Porthos case teach?",
+        "options": [
+          "Violence solves problems",
+          "Creative thinking resolves paradoxes",
+          "Avoid difficult clients",
+          "Traditional methods always work"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 11,
+        "question": "What is the purpose of the 5 Whys technique?",
+        "options": [
+          "To annoy users",
+          "To identify root causes, not symptoms",
+          "To create more questions",
+          "To delay the project"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 7,
+        "question": "What is inductive thinking in synthesis?",
+        "options": [
+          "General to specific reasoning",
+          "Specific to general reasoning",
+          "Testing hypotheses",
+          "Creative guessing"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 57,
+        "question": "The auto workshop solution was:",
+        "options": [
+          "Move the workshop",
+          "Lower prices",
+          "Offer pick-up and drop-off service",
+          "Advertise more"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 35,
+        "question": "In a POV statement, the INSIGHT reveals:",
+        "options": [
+          "The solution",
+          "Why the need matters",
+          "What to build",
+          "When to start"
+        ],
+        "correct": 1
+      }
+    ],
+    "timestamp": "2025-10-17 10:00:34"
+  }
+]

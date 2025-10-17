@@ -1,0 +1,252 @@
+[
+  {
+    "student_name": "FGHF",
+    "register_number": "1245",
+    "score": 5,
+    "answers": [
+      1,
+      1,
+      2,
+      0,
+      3,
+      2,
+      3,
+      2,
+      2,
+      2,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "questions": [
+      {
+        "id": 40,
+        "question": "In gear hobbing, the hob and gear blank rotate in a ratio of:",
+        "options": [
+          "1:1 always",
+          "Based on hob threads and gear teeth",
+          "2:1 always",
+          "Based on module only"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 34,
+        "question": "What is the main advantage of carbide milling cutters?",
+        "options": [
+          "Lower cost",
+          "Easy resharpening",
+          "Higher cutting speeds",
+          "Better vibration damping"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 6,
+        "question": "The stroke length in a shaper is determined by:",
+        "options": [
+          "Workpiece material",
+          "Cutting tool material",
+          "Position of the connecting rod",
+          "Spindle speed"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 46,
+        "question": "In gear grinding, the grinding wheel:",
+        "options": [
+          "Has random abrasive arrangement",
+          "Is dressed to match tooth profile",
+          "Rotates slowly",
+          "Uses flood cooling only"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 7,
+        "question": "Which surface can be machined using a shaper?",
+        "options": [
+          "Cylindrical surfaces only",
+          "Flat surfaces only",
+          "Flat, angular, and grooved surfaces",
+          "Threaded surfaces only"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 42,
+        "question": "The gear shaping cutter resembles:",
+        "options": [
+          "A hob",
+          "A milling cutter",
+          "A gear itself",
+          "A broach"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 26,
+        "question": "Which milling cutter is used for machining T-slots?",
+        "options": [
+          "Plain milling cutter",
+          "T-slot milling cutter",
+          "Angular milling cutter",
+          "Form milling cutter"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 32,
+        "question": "The insert type milling cutters use:",
+        "options": [
+          "Brazed carbide tips",
+          "Replaceable cutting inserts",
+          "HSS cutting edges",
+          "Diamond cutting edges"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 8,
+        "question": "The cutting speed in shaper is measured in:",
+        "options": [
+          "RPM (revolutions per minute)",
+          "m/min (meters per minute)",
+          "Strokes per minute",
+          "mm/tooth"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 36,
+        "question": "What are the two main principles of gear cutting?",
+        "options": [
+          "Hobbing and shaping",
+          "Forming and generation",
+          "Milling and grinding",
+          "Turning and boring"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 35,
+        "question": "Shell end mills are mounted on:",
+        "options": [
+          "Direct spindle attachment",
+          "Stub arbors",
+          "Long arbors",
+          "Collet chucks only"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 12,
+        "question": "Which drilling operation is used to enlarge an existing hole?",
+        "options": [
+          "Drilling",
+          "Reaming",
+          "Boring",
+          "Tapping"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 29,
+        "question": "Form milling cutters are used to machine:",
+        "options": [
+          "Flat surfaces",
+          "Specific contoured surfaces",
+          "Angular surfaces only",
+          "Cylindrical surfaces"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 30,
+        "question": "What is gang milling?",
+        "options": [
+          "Using multiple workpieces",
+          "Using multiple cutters simultaneously",
+          "Using high-speed cutting",
+          "Using flood cooling"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 31,
+        "question": "Side milling cutters are primarily used for:",
+        "options": [
+          "Face milling operations",
+          "Slot milling and side cutting",
+          "Thread milling",
+          "Gear cutting only"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 1,
+        "question": "What is the primary motion in a shaper machine?",
+        "options": [
+          "Rotary motion of the workpiece",
+          "Reciprocating motion of the cutting tool",
+          "Continuous rotation of the cutting tool",
+          "Oscillating motion of the workpiece"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 15,
+        "question": "What is the typical reaming allowance?",
+        "options": [
+          "5-10% of hole diameter",
+          "0.1-0.4 mm",
+          "1-2 mm",
+          "10-15% of hole diameter"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 16,
+        "question": "Which tool is used for tapping operations?",
+        "options": [
+          "Twist drill",
+          "Reamer",
+          "Tap",
+          "Boring bar"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 45,
+        "question": "Gear shaving is performed:",
+        "options": [
+          "Before heat treatment",
+          "After heat treatment",
+          "During heat treatment",
+          "Without regard to heat treatment"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 23,
+        "question": "In up milling, the cutter rotates:",
+        "options": [
+          "In the same direction as workpiece feed",
+          "Opposite to workpiece feed direction",
+          "Perpendicular to workpiece feed",
+          "At an angle to workpiece feed"
+        ],
+        "correct": 1
+      }
+    ],
+    "timestamp": "2025-10-05 19:14:49"
+  }
+]
