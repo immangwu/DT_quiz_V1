@@ -501,5 +501,258 @@
       }
     ],
     "timestamp": "2025-10-17 10:00:34"
+  },
+  {
+    "student_name": "xcv",
+    "register_number": "xcvx",
+    "year": "1st Year",
+    "department": "CSE",
+    "venue": "HIVE",
+    "score": 1,
+    "answers": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "questions": [
+      {
+        "id": 32,
+        "question": "Why should problem statements be narrow enough?",
+        "options": [
+          "To limit creativity",
+          "To be manageable and solvable",
+          "To make them easy",
+          "To avoid work"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 31,
+        "question": "Why should problem statements be broad enough?",
+        "options": [
+          "To confuse people",
+          "To allow creative freedom",
+          "To avoid making decisions",
+          "To delay the project"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 20,
+        "question": "Why is treating symptoms instead of root causes problematic?",
+        "options": [
+          "It's faster",
+          "Problems will recur",
+          "It's cheaper",
+          "It's easier"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 56,
+        "question": "In the auto workshop case, what was the key reframing?",
+        "options": [
+          "Workshop is too far \u2192 Distance customers travel is too far",
+          "Customers are lazy \u2192 Workshop is bad",
+          "Price is too high \u2192 Service is poor",
+          "No reframing needed"
+        ],
+        "correct": 0
+      },
+      {
+        "id": 67,
+        "question": "Why should you look for contradictions in data?",
+        "options": [
+          "To create problems",
+          "Most powerful insights come from contradictions",
+          "To confuse the team",
+          "To delay progress"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 58,
+        "question": "What lesson does the Porthos case teach?",
+        "options": [
+          "Violence solves problems",
+          "Creative thinking resolves paradoxes",
+          "Avoid difficult clients",
+          "Traditional methods always work"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 41,
+        "question": "What is a conflict of interest in problem-solving?",
+        "options": [
+          "Team disagreements",
+          "When satisfying one requirement makes another difficult",
+          "Budget issues",
+          "Time pressure"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 25,
+        "question": "What is the first step in affinity mapping?",
+        "options": [
+          "Create groups",
+          "Label everything",
+          "Capture individual observations",
+          "Make conclusions"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 13,
+        "question": "Who developed the 5 Whys technique?",
+        "options": [
+          "Steve Jobs",
+          "Sakichi Toyoda",
+          "Henry Ford",
+          "Thomas Edison"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 54,
+        "question": "Alternative solutions in the canvas show:",
+        "options": [
+          "What we should build",
+          "What users currently use (competitive landscape)",
+          "Impossible options",
+          "Future technology"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 70,
+        "question": "Before moving to Ideate, verify that:",
+        "options": [
+          "You have a solution",
+          "Problem statement is clear and team aligned",
+          "Prototype is ready",
+          "Testing is complete"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 36,
+        "question": "What does HMW stand for?",
+        "options": [
+          "How Many Ways",
+          "How Might We",
+          "How Must We",
+          "How Maybe We"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 53,
+        "question": "Quantifiable impact should be expressed in:",
+        "options": [
+          "Vague terms",
+          "Legible currency (time, money, health, etc.)",
+          "Technical jargon",
+          "Future projections"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 5,
+        "question": "How do insights typically emerge during synthesis?",
+        "options": [
+          "From single observations",
+          "From contradictions in the data",
+          "From stakeholder requests",
+          "From technical constraints"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 10,
+        "question": "Pattern recognition in synthesis helps to:",
+        "options": [
+          "Make data look organized",
+          "Identify recurring themes across observations",
+          "Create random groupings",
+          "Avoid user feedback"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 6,
+        "question": "What is deductive thinking in synthesis?",
+        "options": [
+          "Specific to general reasoning",
+          "General to specific reasoning",
+          "Creative leaps to explanations",
+          "Random pattern recognition"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 37,
+        "question": "Why is 'MIGHT' important in HMW questions?",
+        "options": [
+          "It shows uncertainty",
+          "It allows exploration of possibilities",
+          "It shows weakness",
+          "It delays decisions"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 51,
+        "question": "Why focus on extreme users in problem definition?",
+        "options": [
+          "They are easy to find",
+          "Their needs reveal broader audience needs",
+          "They complain more",
+          "They pay more"
+        ],
+        "correct": 1
+      },
+      {
+        "id": 34,
+        "question": "In a POV statement, the NEED should be expressed as:",
+        "options": [
+          "A noun (solution)",
+          "An adjective",
+          "A verb (action)",
+          "A question"
+        ],
+        "correct": 2
+      },
+      {
+        "id": 66,
+        "question": "A best practice in the Define phase is:",
+        "options": [
+          "Work alone",
+          "Rush to conclusions",
+          "Embrace messiness and collaboration",
+          "Ignore data"
+        ],
+        "correct": 2
+      }
+    ],
+    "timestamp": "2025-10-18 21:51:26"
   }
 ]

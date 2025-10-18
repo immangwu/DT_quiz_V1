@@ -1,4 +1,11 @@
 streamlit
-streamlit-js-eval
 pandas
 reportlab
+streamlit-js-eval
+streamlit-autorefresh
+
+# Pinning specific versions to resolve conflicts
+gspread==5.12.4
+google-auth==2.22.0
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.1.1
